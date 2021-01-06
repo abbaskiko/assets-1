@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "ethers": "^5.0.9"
   }
 }
